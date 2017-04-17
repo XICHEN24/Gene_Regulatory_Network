@@ -1,0 +1,9 @@
+
+method: GRN_lasso
+spreadsheet_name_full_path: ../data/spreadsheets/gene_spreadsheet_1.tsv
+
+alpha: 0.5
+fit_intercept: False
+normalize: True
+
+results_directory:          ./run_dir/results

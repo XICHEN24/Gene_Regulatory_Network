@@ -1,0 +1,9 @@
+# ------------------------------------------------------------------------------------------------------
+# - Analysis Method: cosine similarity -
+# ------------------------------------------------------------------------------------------------------
+method:                     GRN_lasso
+
+spreadsheet_name_full_path_1: ../data/spreadsheets/gene_spreadsheet_1.tsv
+spreadsheet_name_full_path_2: ../data/spreadsheets/gene_spreadsheet_2.tsv
+
+results_directory:          ./run_dir/results
