@@ -119,11 +119,11 @@ spreadsheet_name_full_path = gene_spreadsheet_1.tsv</br>
 * Output files
 
 
-**gene_signature_cos_similarity.tsv**.</br>
+**GRN_coefficient_result.tsv**.</br>
 
-|  | sheet1_sample_1 | ... | sheet1_sample_i |
+|  | gene_1 | ... | gene_m |
 |:---------:|:---------:|:---------:| :---------:|
-| sheet2_sample_1 | 1 | 0 | 0 |
+| gene_1 | 1 | 0 | 0.5 |
 | ... | ... | ... | ... | 
-| sheet2_sample_j | 0 | 0 | 1 |
+| gene_n | 0.1 | 0.2 | 1 |
 
